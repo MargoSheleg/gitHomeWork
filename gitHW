@@ -1,0 +1,19 @@
+1. git checkout -- <file>
+2. git restore -- staged <file>
+3. git checkout <file>
+4.
+5. git branch <branch name>
+6.
+	1. создаем пустой репозиторий на GitHub
+	2. cоздаем одноименную папку у себя на компьютере
+	3. открываем в этой папке терминал и пишем git init
+	4. git add .
+	5. git commit -m ""
+	6. git remote add origin <SSH link from github>
+	7. git push
+7. git pull
+8.
+	git status - состояние файлов
+	git log - список коммитов
+	git remote -v - проверить, подключен ли репозиторий к GitHub
+	git branch -v - просмотреть ветки
